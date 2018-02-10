@@ -1,2 +1,3 @@
 # homeRentApp
 This is my first MEAN app
+It lets users to rent rooms, get notified about the late announcements posted by the admin...
